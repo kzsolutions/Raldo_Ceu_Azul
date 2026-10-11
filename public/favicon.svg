@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Raldo Céu Azul">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1878F0" />
+      <stop offset="1" stop-color="#000090" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#000078" />
+  <circle cx="43" cy="21" r="7" fill="#C9A227" />
+  <path d="M0 44c9-7 18-7 27 0s20 7 37 0v20H0z" fill="url(#sky)" />
+  <path d="M0 52c10-6 19-6 28 0s21 6 36 0v12H0z" fill="#1878F0" opacity="0.85" />
+  <text x="32" y="38" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#ffffff">RC</text>
+</svg>
